@@ -2,6 +2,6 @@
 
 Predicting the titanic survival using logistic regression algorithm and Flask
 
-#Author
+# Author
 
 Dinisuru Gunaratna
